@@ -79,11 +79,27 @@ The full room = db403 + 10" sub.
 ## How a post is made
 1. Pick the occasion/event and products (rotate; check ops/feed_used.md).
 2. Live prices from decibold.com/products.json.
-3. Photos: Google Drive folder "Decibold" (folder id TBD), read with the Drive connector
-   (download_file_content). Edit to fit the event (background, layout, text), keep the product whole.
+3. Photos: Google Drive (whitevenusbrands6@gmail.com), read with the Drive connector
+   (search_files with parentId, then download_file_content). See "Drive photo library" below. Edit to fit the event (background, layout, text), keep the product whole.
 4. Design 1080x1350 (feed) or 1080x1920 (Stories) in brand colours; open and check every image.
 5. Commit + push to this repo, then schedule in Metricool (brand "Decibold") with the
    commit-pinned raw URL. Verify it shows as PENDING. Log it.
+
+## Drive photo library (folder "Speakers" 1ESWNvCHyUINknEMt6gXecpFZOcEYJi6U)
+Each product folder has subfolders: Ecommerce White Background, Creative, Model, Infographics, Video.
+| Folder | ID |
+|---|---|
+| db201 (soundbar) | 1un8k9rIAxqFllgvO2k6P2xFRgs6nJ6Zp |
+| db302 | 1lvEbFLHHhlkYdnWZ91yeKK_VFTvNQ1Gb |
+| db403 | 1E4TiO-8KPu13an2Kd1rKaEWb3iDQPla8 |
+| db 8 Inch Subwoofer | 1jEPUJb0zllnWAkjmF7twXdGDDvBavdTK |
+| db 10 Inch Subwoofer | 1-EYxc-plSxPV8LF0oC7YIcWwQndQqhtC |
+| db Stands | 1sZPYyv6l8O350fyzfmgDbk70e7Z66FjX |
+| Group Images | 18mzsIRw-sUQm2bFtCUnUtBbD8E2j20gm |
+| Boxes | 1UGpl77MLQ_46wTkEnSeHxjr2SeBF2wOX |
+| Speaker Videos | 1X_2-6mM8QPBdDCA2TLHIenuo7TRO__6y |
+Folder "decibold" (1h7BPOlErnbkCu0ifQsD2m69jTFvv0J9D) holds only a zip copy of "Speakers"; ignore it.
+"Model" photos show real people from the shoot: fine to use, never edit faces/bodies.
 
 ## Log
 Posts published → `ops/post_log.md`. Products/sets used in feed posts → `ops/feed_used.md`.
