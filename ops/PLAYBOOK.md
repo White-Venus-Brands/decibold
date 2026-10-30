@@ -76,6 +76,15 @@ The full room = db403 + 10" sub.
 - TBD — copy Mi Amor Paris's caps only after Tannay sets a Decibold daily cap and ad account.
 - Adspirer usage is shared with Mi Amor Paris (15/15 used for Oct 2026).
 
+## How a post is made
+1. Pick the occasion/event and products (rotate; check ops/feed_used.md).
+2. Live prices from decibold.com/products.json.
+3. Photos: Google Drive folder "Decibold" (folder id TBD), read with the Drive connector
+   (download_file_content). Edit to fit the event (background, layout, text), keep the product whole.
+4. Design 1080x1350 (feed) or 1080x1920 (Stories) in brand colours; open and check every image.
+5. Commit + push to this repo, then schedule in Metricool (brand "Decibold") with the
+   commit-pinned raw URL. Verify it shows as PENDING. Log it.
+
 ## Log
 Posts published → `ops/post_log.md`. Products/sets used in feed posts → `ops/feed_used.md`.
 Ads changes → `ops/ads_log.md`.
