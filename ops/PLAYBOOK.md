@@ -71,12 +71,12 @@ electronics business (acoustics, cabinets, amplification, tuning). Core idea: "s
 is, never how a song will make you feel." Don't add details beyond the story.
 
 ## Content direction
+- **Positioning: MUSIC ONLY (Tannay, 18 Nov 2026).** Never pitch movies, TV, movie night or home theatre. Leave out HDMI ARC/TV angles; no #hometheatre.
 - Only 8 listings, so variety comes from rooms, moments and setups, not new products.
 - Best format: short real phone videos of the speakers playing (Tannay to shoot), plus static
   carousels 1080x1350 (setups, spec cards, "which setup fits your room").
 - Stories 1080x1920: e.g. "Desk or living room?", "Bass or clarity?" (Reply 1 or 2), product of the day.
-- Festive: Diwali (8 Nov 2026) gifting/home upgrade, wedding season (Nov–Feb), Christmas/New Year
-  parties, IPL/cricket season (TV soundbar angle).
+- Festive: wedding season (Nov–Feb), Christmas/New Year parties, house parties, gifting.
 
 ## Meta ads rules
 - TBD — copy Mi Amor Paris's caps only after Tannay sets a Decibold daily cap and ad account.
