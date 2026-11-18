@@ -64,6 +64,12 @@ The full room = db403 + 10" sub.
   the first bass hit). Short sentences. 1–2 emoji max. Avoid: "elevate", "immersive experience",
   "game-changer", "must-have", "stop scrolling", em dashes.
 
+## Founder story (ethos) — full text in ops/BRAND_STORY.md
+Use for trust lines: a speaker collector since childhood (brought one back from every trip), years as a DJ at
+weddings/parties/events, ran a DJ Training Academy in Naraina Vihar, New Delhi (since closed), then the family
+electronics business (acoustics, cabinets, amplification, tuning). Core idea: "specs tell you how loud a speaker
+is, never how a song will make you feel." Don't add details beyond the story.
+
 ## Content direction
 - Only 8 listings, so variety comes from rooms, moments and setups, not new products.
 - Best format: short real phone videos of the speakers playing (Tannay to shoot), plus static
