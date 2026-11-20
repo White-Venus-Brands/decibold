@@ -48,7 +48,7 @@ The full room = db403 + 10" sub.
 3. **Specs only from the listing** (watts, inputs, driver sizes, Bluetooth, HDMI ARC...). Several specs
    are still marked "confirm before launch" on the site: if a spec isn't in the live listing, leave it out.
    Never invent frequency response, battery, range, dB or "best in class" claims.
-4. Never name competitors or other speaker brands. No comparisons.
+4. Never name competitors or other speaker brands. No comparisons: no "sound of the big names", no "half the price of...". Decibold is its own brand, not an alternative (Tannay, 20 Nov 2026).
 5. Never invent reviews, ratings, customer numbers or order volumes.
 6. Real product photos only: whole product, never cropped or AI-redrawn. No AI-generated people or
    rooms presented as real. Mark any AI imagery as AI (Metricool instagramData.isAiGenerated).
