@@ -56,7 +56,7 @@ The full room = db403 + 10" sub.
 8. Hashtags: max 5 per post.
 
 ## Brand
-- Tagline: **"decibels made boldd"** (the doubled d is intentional; always lowercase like this).
+- Tagline: **"decibels made boldd"**: the doubled d is intentional, and it is ALWAYS all lowercase, including on end cards and logos, never "DECIBELS MADE BOLDD" (founder, 20 Nov 2026).
 - Look: ink #100d0b, shell #ede4d6, bronze #a8763e. Fonts: Archivo (display), Newsreader (story).
 - Products are white studio cutouts: on dark backgrounds place them on a shell-coloured plate
   (mix-blend-mode multiply equivalent) so they don't turn into white rectangles.
