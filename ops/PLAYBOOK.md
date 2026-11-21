@@ -70,6 +70,12 @@ weddings/parties/events, ran a DJ Training Academy in Naraina Vihar, New Delhi (
 electronics business (acoustics, cabinets, amplification, tuning). Core idea: "specs tell you how loud a speaker
 is, never how a song will make you feel." Don't add details beyond the story.
 
+## Speaker Facts (reel series, from 21 Nov 2026)
+- Tannay's voiceover; one sound/acoustics fact per episode (scripts are standard acoustics, no invented numbers).
+- Captions = his exact words (transcribed), word-synced, active word bronze; keyword pop-ups; real footage/photos only, no AI imagery.
+- Every episode ends with the same series outro: vr.cinematics drop (from 13.59 s), beat-cut montage -> 2-split -> 4-grid -> logo,
+  with his own "Decibold. Decibels made boldd." from the db302 take 5 recording (29.95-32.35 s).
+
 ## Content direction
 - **Positioning: MUSIC ONLY (Tannay, 18 Nov 2026).** Never pitch movies, TV, movie night or home theatre. Leave out HDMI ARC/TV angles; no #hometheatre.
 - Only 8 listings, so variety comes from rooms, moments and setups, not new products.
