@@ -73,7 +73,7 @@ is, never how a song will make you feel." Don't add details beyond the story.
 ## Speaker Facts (reel series, from 21 Nov 2026)
 - Tannay's voiceover; one sound/acoustics fact per episode (scripts are standard acoustics, no invented numbers).
 - Captions = his exact words (transcribed), word-synced, active word bronze; keyword pop-ups; real footage/photos only, no AI imagery.
-- Fixed sign-off before the outro (recorded once, reused every episode): "Facts dropped. Volume up." over a B-roll shot of a hand turning the volume up.
+- Fixed sign-off before the outro (recorded once, reused every episode): "Fun facts dropped. Now volume up for B-roll." (said by Tannay at the end of each recording) over a controls/volume shot, with pop-ups + rising volume meter.
 - Every episode ends with the same series outro: vr.cinematics drop (from 13.59 s), beat-cut montage -> 2-split -> 4-grid -> logo,
   with his own "Decibold. Decibels made boldd." from the db302 take 5 recording (29.95-32.35 s).
 
